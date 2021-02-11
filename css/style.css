@@ -4,7 +4,7 @@
 }
 
 body {
-
+    font-family: 'Rubik Mono One', sans-serif;
 }
 
 /*header*/
@@ -66,24 +66,24 @@ section {
 }
 section div {
     width: 65%;
-    height: 60%;
+    height: 65%;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: blue;
 }
-.container-scarpe {
-    width: 100%;
-    height: 100%;
-    background-color: yellow;
+
+img {
+    display: block;
+    margin: 0 auto;
 }
-section div .container-scarpe img {
-    margin: auto;
+
+p {
+    text-align: center;
+    color: yellow;
+    font-size: 27px;
 }
-section div .container-scarpe img p {
-    vertical-align: middle;
-    color: green;
-    font-size: xx-large;
-}
+
+
 
