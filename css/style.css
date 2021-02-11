@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+}
+
+/*header*/
+header {
+    height: 30px;
+    width: 100%;
+    background-color: royalblue;
+}
+
+section {
+    background-color: red;
+    width: 100%;
+    height: 100vh;
+}
+
